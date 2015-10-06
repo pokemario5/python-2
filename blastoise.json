@@ -1,0 +1,33 @@
+{
+ "name": "mega blastoise",
+ "uid": "7",
+ "abilities": ["Mega Launcher"],
+ "types": [ "water"],
+ "moves": ["hydro pump","water gun","iron defense"],
+ "description": "",
+ "attack":83000,
+ "sp_attack":1000,
+ "defense":10000000
+ "sp_defense": 20000000
+ "species": "Shellfish",
+ "speed": 90,
+ "total":100000000000000000000,
+ "catch_rate": 115,
+ "ev_yield": "1 sp atk",
+ "evolution":":[
+}
+ "level":9000,
+ "method": "level up",
+ "to": ""
+
+}
+
+ ],
+ "exp":156,
+ "growth_rate": "ms",
+ "happiness": 99,
+ "height": 6'5,
+ "eight": 6.9,
+ "hp": 23,
+ "mf_ratio": 103.10
+ }
